@@ -7,6 +7,7 @@
     "plugin",
     "style import"
   ],
+  "author": "jonath",
   "main": "lib/index.js",
   "module": "es/index.js",
   "types": "types/index.d.ts",
