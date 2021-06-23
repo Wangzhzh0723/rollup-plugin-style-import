@@ -1,6 +1,6 @@
 {
   "name": "@jonath/rollup-plugin-style-import",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A rollup plugin that imports component library styles on demand",
   "keywords": [
     "rollup",
