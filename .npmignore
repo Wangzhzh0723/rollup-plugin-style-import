@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+src
+package-lock.json
+*.lock
+rollup.config.js
+tsconfig.json
+.gitignore
+.npmignore
